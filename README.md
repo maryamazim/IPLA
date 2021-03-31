@@ -1,4 +1,4 @@
-# IPLA
+# IPLA Repository (Code and data for QS Project)
 Illumination phenotyping using longitudinal data analytics
 Programs included are:
 1. Python script for automated cropping and pixel intensity calculations
